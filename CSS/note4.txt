@@ -1,0 +1,24 @@
+#h1{
+
+    it means h1 id and is used in the condition below
+    <div id="h1"></div>
+}
+
+h1{
+
+    it means h1 tag just like <h1> and is used in the condition below
+    <div></div>
+}
+
+.h1{
+
+    it means h1 class and is used in the condition given below
+    <div class="h1"></div>
+}
+
+NOTES:
+
+1- id and class are important because if we don't specify the class and id to a particular div
+, to same specifications saare div mein apply ho jayengi
+
+2- To set different specifications for different div we use id and class in html

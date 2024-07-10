@@ -1,0 +1,5 @@
+1- repetition steps
+2- html file
+3- css file
+4- and write their boilerplate code as many times as you can until unless you get it!!
+5- link both of them (html document and css file)

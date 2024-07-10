@@ -1,0 +1,39 @@
+UNITS
+
+liquid is measured in litres
+solid is measured in kg
+
+in CSS, there are some units which we can use for measurements
+
+units = px % vw vh em rem
+
+1 px = 1px on screen(amazing concept hai)
+lets say we have a screen or display whatever and we choose an area of the display.
+Jitne jyada pixels honge kisi screen k ek particular area main graphics utne hi crisp
+honge us display par
+for example - lets say we have two displays
+display 1 - 500px per area
+display 2 - 1500px per same area
+
+display2 k graphics jyada crisp honge in comparision to display1
+cause usme no. of pixels jyada hai
+
+NOTE:
+1- each pixel can portray a different light
+2- Alot of times we donot need to use pixels while making the websites as they cause a scrawler to appear on the screen,
+it could be rather replaced by vw, i.e. px = vw
+
+
+3- % hamesha parent se value leta hai
+4- vw and vh hamesha screen se value lete hai
+
+5- em depend karta hai us element ke font size par, aur ye agar parent ko dete hai to 
+children pe bhi apply hota hai
+
+matlab kuch aisa:
+
+consider kariye ek element hai jiske pass 16 px font size hai to 1em ki value
+16px hogi aur font size change kia to uske response mein em ki value bhi badegi
+
+6- max-width and max-height matlab maximum utna jayega and agar height aur width 
+exceed karegi to maximum-width and maximum-height pe default set ho jayega

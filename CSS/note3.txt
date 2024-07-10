@@ -1,0 +1,6 @@
+Question - Box bnao and use RED kro?
+Answer -
+
+1- div bnao html mein
+2- as div don't have any height on its own , to div ko width height dijiye css mein
+3- Backgroung color dijiye div ko css mein

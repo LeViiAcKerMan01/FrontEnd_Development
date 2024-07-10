@@ -1,0 +1,2 @@
+color = text ka color
+background-color = background ka color
