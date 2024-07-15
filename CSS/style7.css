@@ -21,13 +21,14 @@ html, body{
 #car2{
     position: absolute;
     top: 0;
-    left: 50;
+    left: 50%;
     width: 80px;
     height: 120px;
     background-color: rgb(19, 228, 72);
 }
 #car3{
     position: absolute;
+    top: 0;
     width: 105px;
     height: 90px;
     background-color: rgb(142, 48, 22);
